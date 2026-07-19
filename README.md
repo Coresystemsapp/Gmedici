@@ -22,4 +22,5 @@ Sem configurar, o app roda em **modo demonstração** (dados locais de exemplo).
 - `AreaMedico.jsx` — prontuário, evoluções, prescrições, exames
 - `AreaPaciente.jsx` — agendamentos, histórico, exames, documentos, pagamentos
 - `store.js` — sync Firestore com fallback local
-- `firebase.js` — config (editar aqui)  
+- `firebase.js` — config (editar aqui)
+- 
